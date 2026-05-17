@@ -1,0 +1,78 @@
+2026-05-17 18:06:05.096669 - Pipeline started
+2026-05-17 18:06:05.099092 - Pipeline failed: [Errno 2] No such file or directory: 'Raw data\\retail_sales_raw.csv'
+2026-05-17 18:06:30.057200 - Pipeline started
+2026-05-17 18:06:30.123531 - Data loaded: 12575 rows, 11 columns
+2026-05-17 18:06:30.198074 - Duplicates removed: 0
+2026-05-17 18:06:30.259331 - Data cleaning completed successfully
+2026-05-17 18:06:30.365208 - Clean dataset exported successfully
+2026-05-17 18:06:30.365967 - Pipeline finished successfully
+2026-05-17 18:37:09.355505 - Pipeline started
+2026-05-17 18:37:09.405086 - Data loaded: 12577 rows, 11 columns
+2026-05-17 18:37:09.460998 - Duplicates removed: 0
+2026-05-17 18:37:09.512460 - Data cleaning completed successfully
+2026-05-17 18:37:09.621384 - Clean dataset exported successfully
+2026-05-17 18:37:09.622250 - Pipeline finished successfully
+2026-05-17 18:48:30.865289 - Pipeline started
+2026-05-17 18:48:30.926727 - Data loaded: 12577 rows, 11 columns
+2026-05-17 18:48:31.002833 - Duplicates removed: 0
+2026-05-17 18:48:31.055446 - Data cleaning completed successfully
+2026-05-17 18:48:31.400690 - Pipeline failed: Invalid SQLite URL: sqlite://Database/retail_sales.db
+Valid SQLite URL forms are:
+ sqlite:///:memory: (or, sqlite://)
+ sqlite:///relative/path/to/file.db
+ sqlite:////absolute/path/to/file.db
+2026-05-17 18:50:54.952633 - Pipeline started
+2026-05-17 18:50:54.999453 - Data loaded: 12577 rows, 11 columns
+2026-05-17 18:50:55.053808 - Duplicates removed: 0
+2026-05-17 18:50:55.101986 - Data cleaning completed successfully
+2026-05-17 18:50:55.502020 - Data loaded into SQLite database
+2026-05-17 18:50:55.503083 - Clean dataset exported successfully
+2026-05-17 18:50:55.503833 - Pipeline finished successfully
+2026-05-17 19:14:49.199958 - Pipeline started
+2026-05-17 19:14:49.267023 - Data loaded: 12577 rows, 11 columns
+2026-05-17 19:14:49.347692 - Duplicates removed: 0
+2026-05-17 19:14:49.411668 - Data cleaning completed successfully
+2026-05-17 19:14:49.417522 - Pipeline failed: [Errno 13] Permission denied: 'Cleaned data\\cleaned_retail_sales.csv'
+2026-05-17 19:18:09.660152 - Pipeline started
+2026-05-17 19:18:09.707966 - Data loaded: 12577 rows, 11 columns
+2026-05-17 19:18:09.763233 - Duplicates removed: 0
+2026-05-17 19:18:09.825523 - Filled 610 missing prices
+2026-05-17 19:18:09.826423 - Data cleaning completed successfully
+2026-05-17 19:18:09.830271 - Pipeline failed: [Errno 13] Permission denied: 'Cleaned data\\cleaned_retail_sales.csv'
+2026-05-17 19:20:55.267862 - Pipeline started
+2026-05-17 19:20:55.337487 - Data loaded: 12577 rows, 11 columns
+2026-05-17 19:20:55.414339 - Duplicates removed: 0
+2026-05-17 19:20:55.474586 - Filled 610 missing prices
+2026-05-17 19:20:55.475333 - Data cleaning completed successfully
+2026-05-17 19:20:55.938933 - Data loaded into SQLite database
+2026-05-17 19:20:55.939966 - Clean dataset exported successfully
+2026-05-17 19:20:55.940559 - Pipeline finished successfully
+2026-05-17 19:26:07.042880 - Pipeline started
+2026-05-17 19:26:07.099351 - Data loaded: 12577 rows, 11 columns
+2026-05-17 19:26:07.152946 - Duplicates removed: 0
+2026-05-17 19:26:07.208834 - Filled 610 missing prices
+2026-05-17 19:26:07.209476 - Data cleaning completed successfully
+2026-05-17 19:26:07.350998 - Pipeline failed: (sqlite3.OperationalError) unable to open database file
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-05-17 19:28:03.102103 - Pipeline started
+2026-05-17 19:28:03.149062 - Data loaded: 12577 rows, 11 columns
+2026-05-17 19:28:03.204942 - Duplicates removed: 0
+2026-05-17 19:28:03.258659 - Filled 610 missing prices
+2026-05-17 19:28:03.259258 - Data cleaning completed successfully
+2026-05-17 19:28:03.610470 - Data loaded into SQLite database
+2026-05-17 19:28:03.611676 - Clean dataset exported successfully
+2026-05-17 19:28:03.612290 - Pipeline finished successfully
+2026-05-17 19:32:58.066283 - Pipeline started
+2026-05-17 19:32:58.116057 - Data loaded: 12577 rows, 11 columns
+2026-05-17 19:32:58.171365 - Duplicates removed: 0
+2026-05-17 19:32:58.223750 - Data cleaning completed successfully
+2026-05-17 19:32:58.620444 - Data loaded into SQLite database
+2026-05-17 19:32:58.621773 - Clean dataset exported successfully
+2026-05-17 19:32:58.622382 - Pipeline finished successfully
+2026-05-17 19:38:04.713200 - Pipeline started
+2026-05-17 19:38:04.763794 - Data loaded: 12577 rows, 11 columns
+2026-05-17 19:38:04.818669 - Duplicates removed: 0
+2026-05-17 19:38:04.868868 - Data cleaning completed successfully
+2026-05-17 19:38:05.263217 - Data loaded into SQLite database
+2026-05-17 19:38:05.264249 - Clean dataset exported successfully
+2026-05-17 19:38:05.264971 - Pipeline finished successfully
