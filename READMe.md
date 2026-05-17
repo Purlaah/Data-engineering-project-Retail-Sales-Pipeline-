@@ -26,6 +26,8 @@ This project is helping me learn more about:
 - Built initial ETL pipeline script
 - Added dataset validation checks
 - Created automatic raw data backup process
+- SQLite integration to store clean data into a SQL database
+- Windows Task Scheduler for daily automated pipelining
 
 ---
 
