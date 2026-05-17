@@ -38,14 +38,3 @@ This project is helping me learn more about:
 
 ---
 
-## Project Structure
-
-```text
-retail-sales-pipeline/
-│
-├── raw_data/
-├── cleaned_data/
-├── archive/
-├── logs/
-├── scripts/
-└── README.md
